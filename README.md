@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Md%20Readus%20Shalehin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Operations%20%7C%20Technology%20%7C%20Strategy&descSize=18&descAlignY=55&descAlign=50"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=CS+Graduate+%7C+Operations+Coordinator+%7C+Strategic+Thinker;Building+bridges+between+Technology+%26+Business)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=CS+Graduate+%7C+Operations+Coordinator+%7C+Strategic+Thinker;Building+bridges+between+Technology+%26+Business)](https://git.io/typing-svg)
 
 <br/>
 
