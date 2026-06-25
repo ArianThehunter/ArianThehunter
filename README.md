@@ -99,12 +99,12 @@ I'm a **Computer Science graduate** with real-world experience in **B2B operatio
 
 </div>
 
-### 📋 Project Details
+### 🚀 Featured Projects
 
 | # | Project | Description | Tech Stack | Links |
 |:-:|---------|-------------|:----------:|:-----:|
 | 1 | **Sheba: Messaging & Premium Platform** | Full-stack web application with real-time messaging and premium subscription system (CSE471 — System Analysis & Design) | `Web Dev` `Full Stack` | [📂 Repo](https://github.com/ArianThehunter/CSE471-Sheba) |
-| 2 | **CSE470: Software Engineering Project** | Software engineering course project built with modern development practices | `Software Eng` | [📂 Repo](https://github.com/ArianThehunter/CSE470) |
+| 2 | **SME Insight Hub** | A full-stack business intelligence platform for Small and Medium Enterprises | `SvelteKit, FastAPI, and PostgreSQL` | [📂 Repo](https://github.com/ArianThehunter/SME-Insight-Hub) |
 | 3 | **ML-Based Learning Disability Detection** | Thesis project — Machine learning model for early detection of learning disabilities in school-age children | `Python` `ML` `AI` | 🔬 Thesis |
 
 ---
