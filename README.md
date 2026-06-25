@@ -28,7 +28,7 @@ Location:   Dhaka, Bangladesh
 Focus:      Merging technology with business strategy to drive operational excellence
 ```
 
-> *"I don't just write code — I architect operational strategies that bridge the gap between technical innovation and business growth."*
+> *"I don't just write code, but architect operational strategies that bridge the gap between technical innovation and business growth."*
 
 I'm a **Computer Science graduate** with real-world experience in **B2B operations, vendor management, and strategic planning**. My thesis on _Machine Learning-Based Early Detection of Learning Disabilities_ reflects my drive to build technology that creates genuine impact. Whether I'm coordinating international supply chains or deploying AI solutions under hackathon pressure, I bring the same intensity: **solve the real problem, ship it fast, and iterate**.
 
@@ -103,8 +103,8 @@ I'm a **Computer Science graduate** with real-world experience in **B2B operatio
 
 | # | Project | Description | Tech Stack | Links |
 |:-:|---------|-------------|:----------:|:-----:|
-| 1 | **Sheba — Messaging & Premium Platform** | Full-stack web application with real-time messaging and premium subscription system (CSE471 — System Analysis & Design) | `Web Dev` `Full Stack` | [📂 Repo](https://github.com/ArianThehunter/CSE471-Sheba) |
-| 2 | **CSE470 — Software Engineering Project** | Software engineering course project built with modern development practices | `Software Eng` | [📂 Repo](https://github.com/ArianThehunter/CSE470) |
+| 1 | **Sheba: Messaging & Premium Platform** | Full-stack web application with real-time messaging and premium subscription system (CSE471 — System Analysis & Design) | `Web Dev` `Full Stack` | [📂 Repo](https://github.com/ArianThehunter/CSE471-Sheba) |
+| 2 | **CSE470: Software Engineering Project** | Software engineering course project built with modern development practices | `Software Eng` | [📂 Repo](https://github.com/ArianThehunter/CSE470) |
 | 3 | **ML-Based Learning Disability Detection** | Thesis project — Machine learning model for early detection of learning disabilities in school-age children | `Python` `ML` `AI` | 🔬 Thesis |
 
 ---
@@ -132,7 +132,7 @@ I'm a **Computer Science graduate** with real-world experience in **B2B operatio
 <td>
 <strong>Bachelor of Science in Computer Science</strong><br/>
 BRAC University — Dhaka, Bangladesh<br/>
-<sub>Jan 2022 – May 2026</sub><br/><br/>
+<sub>Jan 2022 – June 2026</sub><br/><br/>
 📝 <strong>Thesis:</strong> <em>"Machine Learning-Based Early Detection of Learning Disabilities in School-Age Children"</em><br/>
 📚 <strong>Relevant Coursework:</strong> Software Engineering · Artificial Intelligence · Data Analytics
 </td>
@@ -190,6 +190,6 @@ BRAC University — Dhaka, Bangladesh<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer"/>
 
-<sub>⚡ Built with purpose — where technology meets business strategy</sub>
+<sub>⚡ Built with purpose, where technology meets business strategy</sub>
 
 </div>
